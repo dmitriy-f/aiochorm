@@ -1,5 +1,5 @@
 from infi.clickhouse_orm.query import (Operator, SimpleOperator, InOperator, LikeOperator, IExactOperator,
-                                       NotOperator, BetweenOperator, register_operator, FOV, Q, QuerySet,
+                                       NotOperator, BetweenOperator, register_operator, Q, QuerySet,
                                        AggregateQuerySet)
 
 
